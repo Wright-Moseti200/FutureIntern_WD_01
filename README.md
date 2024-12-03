@@ -1,20 +1,20 @@
-# React Calculator Project
+# Personal Portfolio Website
 
-## Overview
-A modern, responsive calculator built using React.js, showcasing component-based architecture and state management in web development.
+## 🌟 Overview
+A modern, responsive personal portfolio website showcasing my professional journey, skills, and projects. Built using React.js to demonstrate web development expertise.
 
-## 🚀 Features
-- Full arithmetic operations (+, -, *, /)
-- Responsive and clean user interface
-- Built with React functional components
-- State management using React Hooks
-- Error handling for calculations
+## ✨ Features
+- Responsive design
+- Single-page application (SPA)
+- Interactive project showcase
+- Smooth navigation
+- Professional presentation of skills and experiences
 
 ## 🛠 Technologies Used
 - React.js
 - JavaScript (ES6+)
 - CSS3
-- Hooks (useState, useEffect)
+- Responsive Design Principles
 
 ## 📦 Installation
 
@@ -22,16 +22,18 @@ A modern, responsive calculator built using React.js, showcasing component-based
 - Node.js (v14 or later)
 - npm or yarn
 
-### Steps
+### Setup Steps
 ```bash
+# Clone the repository
+git clone https://github.com/[YourUsername]/portfolio-website.git
 
 # Navigate to project directory
-cd react-calculator
+cd portfolio-website
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Start development server
 npm start
 
 # Getting Started with Create React App

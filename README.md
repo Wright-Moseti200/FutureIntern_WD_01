@@ -1,3 +1,39 @@
+# React Calculator Project
+
+## Overview
+A modern, responsive calculator built using React.js, showcasing component-based architecture and state management in web development.
+
+## 🚀 Features
+- Full arithmetic operations (+, -, *, /)
+- Responsive and clean user interface
+- Built with React functional components
+- State management using React Hooks
+- Error handling for calculations
+
+## 🛠 Technologies Used
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- Hooks (useState, useEffect)
+
+## 📦 Installation
+
+### Prerequisites
+- Node.js (v14 or later)
+- npm or yarn
+
+### Steps
+```bash
+
+# Navigate to project directory
+cd react-calculator
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
